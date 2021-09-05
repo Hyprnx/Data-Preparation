@@ -1,6 +1,7 @@
 # DATA VISUALIZATION AND PREPARATION
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 [![Code of conduct](https://img.shields.io/badge/Code%20of%20conduct-Contributor%20Covenant-blue)](https://github.com/Hyprnx/Data-preparation/blob/main/CODE_OF_CONDUCT.md)
