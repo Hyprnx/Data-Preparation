@@ -1,0 +1,1 @@
+Read 2 ex in day 4 notebook.
